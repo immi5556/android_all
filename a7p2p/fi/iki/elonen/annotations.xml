@@ -1,0 +1,5 @@
+<root>
+    <item name='fi.iki.elonen.NanoHTTPD.Response'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
